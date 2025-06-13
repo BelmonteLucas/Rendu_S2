@@ -160,7 +160,7 @@ def main():
     html_complet = ajouter_template(html_brut)
 
     # Ici : créer un fichier HTML
-    with open("Veille_python.html", "w", encoding="utf-8") as f:
+    with open("Veille_python_Lucas_BELMONTE.html", "w", encoding="utf-8") as f:
         f.write(html_complet)
 if __name__ == "__main__":
     main()
