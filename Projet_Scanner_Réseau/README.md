@@ -34,3 +34,5 @@ Application web simple pour scanner un réseau local, afficher les appareils dé
 ```bash
 git clone https://github.com/votre-utilisateur/scan-reseau-flask.git
 cd scan-reseau-flask
+
+2. Installer les dépendances :
