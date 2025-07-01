@@ -116,21 +116,6 @@ Script Python d’exemple : ici, il exécute la commande réseau ipconfig et aff
 
 ---
 
-## Utilisation
-
-Rédiger un fichier Veille_python.md avec du Markdown.
-
-Y inclure des liens vers des scripts Python si souhaité.
-
-Lancer :
-
-```bash
-python main.py
-```
-Le fichier Veille_python_Lucas_BELMONTE.html est généré dans le répertoire courant.
-
----
-
 ## Auteur
 
 Lucas Belmonte - Projet de veille technologique - Python & Administration Réseau - 01 Juillet 2025
