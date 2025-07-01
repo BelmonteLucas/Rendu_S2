@@ -56,6 +56,8 @@ cd Rendu_S2/Projet_Parser_Markdown
 python main.py
 ```
 
+3. Ouvrir le fichier .html généré
+
 ---
 
 ## Exécution de scripts Python
