@@ -24,7 +24,7 @@ Ce projet transforme un fichier Markdown (.md) en une page HTML complète et sty
 
 ## Fonctionnalités
 
-- Conversion Markdown → HTML
+### Conversion Markdown → HTML
 
 Le parseur gère les éléments Markdown suivants :
 
@@ -38,17 +38,17 @@ Le parseur gère les éléments Markdown suivants :
 
 - Listes * ou -
 
-- Citations > 
+- Citations  
 
-- Séparateurs ---, ___, ***
+- Séparateurs 
 
-- Blocs de code ```
+- Blocs de code
 
 ---
 
 ## Exécution de scripts Python
 
-Lorsqu’un lien vers un fichier .py est présent dans le Markdown, le script est exécuté au moment de la conversion, et sa sortie est injectée dans le HTML dans une balise <pre>.
+Lorsqu’un lien vers un fichier .py est présent dans le Markdown, le script est exécuté au moment de la conversion, et sa sortie est injectée dans le HTML.
 
 ---
 
