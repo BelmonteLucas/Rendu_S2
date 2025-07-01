@@ -50,13 +50,14 @@ python app.py
 ```bash
 http://localhost:5000
 ```
+---
 
 ## Fichiers principaux
 
-. app.py : logique Flask + scan ARP avec Scapy
+- app.py : logique Flask + scan ARP avec Scapy
 
-. templates/index.html : interface utilisateur (Bootstrap, Chart.js, JS)
+- templates/index.html : interface utilisateur (Bootstrap, Chart.js, JS)
 
-. README.md : documentation
+- README.md : documentation
 
 
