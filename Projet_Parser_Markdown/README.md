@@ -119,6 +119,6 @@ Le fichier Veille_python_Lucas_BELMONTE.html est généré dans le répertoire c
 
 ## Auteur
 
-Lucas Belmonte Projet de veille technologique – Python & Administration Réseau 01 Juillet 2025
+Lucas Belmonte - Projet de veille technologique - Python & Administration Réseau - 01 Juillet 2025
 
 
