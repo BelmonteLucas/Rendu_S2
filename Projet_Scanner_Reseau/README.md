@@ -94,5 +94,9 @@ L’API macvendors.com peut retourner "Inconnu" si :
 
 Le graphique ne s’affiche que s’il y a au moins un appareil détecté.
 
+---
+
 ## Exemple d'utilisation :
+
+![Diagramme](Images/Image_scan.png)
 
