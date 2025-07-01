@@ -9,6 +9,7 @@ Ce projet transforme un fichier Markdown (.md) en une page HTML complète et sty
 ## Structure du Projet
 
 .
+
 ├── main.py               # Fichier principal : conversion Markdown → HTML
 
 ├── ipconfig.py        # Script Python utilisé dans le Markdown
