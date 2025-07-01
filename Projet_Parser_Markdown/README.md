@@ -41,6 +41,23 @@ Le parseur gère les éléments Markdown suivants :
 
 ---
 
+## Installation
+
+1. Cloner le dépôt :
+
+```bash
+git clone https://github.com/BelmonteLucas/Rendu_S2.git
+cd Rendu_S2/Projet_Parser_Markdown
+```
+
+2. Lancer l’application :
+
+```bash
+python main.py
+```
+
+---
+
 ## Exécution de scripts Python
 
 Lorsqu’un lien vers un fichier .py est présent dans le Markdown, le script est exécuté au moment de la conversion, et sa sortie est injectée dans le HTML.
