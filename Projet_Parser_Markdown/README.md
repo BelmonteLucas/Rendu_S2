@@ -109,9 +109,10 @@ Rédiger un fichier Veille_python.md avec du Markdown.
 Y inclure des liens vers des scripts Python si souhaité.
 
 Lancer :
-'''bash
-python main.py
 
+```bash
+python main.py
+```
 Le fichier Veille_python_Lucas_BELMONTE.html est généré dans le répertoire courant.
 
 ---
