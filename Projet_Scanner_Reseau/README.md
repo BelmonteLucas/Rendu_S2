@@ -4,6 +4,15 @@ Application web simple pour scanner un réseau local, afficher les appareils dé
 
 ---
 
+## Structure du Projet
+
+ .  
+├── app.py               # Fichier principal : Scan  
+├── templates/  
+│   └── index.html          # Interface utilisateur
+
+---
+
 ## Fonctionnalités
 
 - Scan réseau local avec ARP (via Scapy)
