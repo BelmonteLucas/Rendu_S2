@@ -10,9 +10,13 @@ Ce projet transforme un fichier Markdown (.md) en une page HTML complète et sty
 
 .
 ├── main.py               # Fichier principal : conversion Markdown → HTML
+
 ├── ipconfig.py        # Script Python utilisé dans le Markdown
+
 ├── Veille_python.md         # Fichier Markdown source
+
 ├── Veille_python_Lucas_BELMONTE.html  # Fichier HTML généré
+
 └── style.css                # Feuille de style CSS du rendu HTML
 
 ---
