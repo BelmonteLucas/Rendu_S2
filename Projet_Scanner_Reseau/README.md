@@ -32,8 +32,8 @@ Application web simple pour scanner un réseau local, afficher les appareils dé
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/BelmonteLucas/Rendu_S2/tree/main/Projet_Scanner_Reseau.git
-cd scan-reseau-flask
+git clone https://github.com/BelmonteLucas/Rendu_S2.git
+cd Rendu_S2/Projet_Scanner_Reseau
 ```
 2. Installer les dépendances :
 
