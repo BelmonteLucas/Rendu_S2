@@ -32,9 +32,9 @@ Le parseur gère les éléments Markdown suivants :
 
 - Texte en gras (**texte** ou _texte_)
 
-- Liens [texte](url)
+- Liens texte
 
-- Images ![alt](url)
+- Images 
 
 - Listes * ou -
 
