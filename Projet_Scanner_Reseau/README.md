@@ -93,3 +93,6 @@ L’API macvendors.com peut retourner "Inconnu" si :
 - Trop de requêtes ont été faites (limite API)
 
 Le graphique ne s’affiche que s’il y a au moins un appareil détecté.
+
+## Exemple d'utilisation :
+
