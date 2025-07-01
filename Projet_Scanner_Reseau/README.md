@@ -64,7 +64,7 @@ http://localhost:5000
 
 ## Fonctionnement
 
-L’application utilise Scapy pour envoyer des requêtes ARP sur la plage IP fournie (ex:192.168.1.1/24).
+L’application utilise Scapy pour envoyer des requêtes ARP sur la plage IP fournie (ex: 192.168.1.1/24).
 Les appareils actifs répondent avec leur adresse IP et MAC.
 L’adresse MAC est ensuite utilisée pour détecter la marque via l’API gratuite https://api.macvendors.com/.
 
