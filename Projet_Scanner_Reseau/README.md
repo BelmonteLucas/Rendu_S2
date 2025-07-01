@@ -74,4 +74,22 @@ Les données sont :
 
 - comptabilisées pour générer un graphique circulaire
 
+---
 
+## Export CSV
+
+Bouton "Télécharger CSV" pour sauvegarder tous les appareils détectés sous forme de fichier .csv.
+
+---
+
+## Limites & Remarques
+
+Le scan ARP ne détecte que les appareils du sous-réseau local.
+
+L’API macvendors.com peut retourner "Inconnu" si :
+
+- La marque n’est pas connue
+
+- Trop de requêtes ont été faites (limite API)
+
+Le graphique ne s’affiche que s’il y a au moins un appareil détecté.
