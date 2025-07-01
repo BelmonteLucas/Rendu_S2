@@ -34,5 +34,29 @@ Application web simple pour scanner un réseau local, afficher les appareils dé
 ```bash
 git clone https://github.com/votre-utilisateur/scan-reseau-flask.git
 cd scan-reseau-flask
-
+```
 2. Installer les dépendances :
+
+```bash
+pip install flask scapy requests
+```
+3. Lancer l’application :
+
+```bash
+python app.py
+```
+4. Ouvrir dans un navigateur :
+
+```bash
+http://localhost:5000
+```
+
+## Fichiers principaux
+
+. app.py : logique Flask + scan ARP avec Scapy
+
+. templates/index.html : interface utilisateur (Bootstrap, Chart.js, JS)
+
+. README.md : documentation
+
+
