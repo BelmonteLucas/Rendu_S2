@@ -48,7 +48,7 @@ Le parseur gère les éléments Markdown suivants :
 
 ## Exécution de scripts Python
 
-Lorsqu’un lien vers un fichier .py est présent dans le Markdown (ex : [Voir script](mon_script.py)), le script est exécuté au moment de la conversion, et sa sortie est injectée dans le HTML dans une balise <pre>.
+Lorsqu’un lien vers un fichier .py est présent dans le Markdown, le script est exécuté au moment de la conversion, et sa sortie est injectée dans le HTML dans une balise <pre>.
 
 ---
 
