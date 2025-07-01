@@ -98,5 +98,5 @@ Le graphique ne s’affiche que s’il y a au moins un appareil détecté.
 
 ## Exemple d'utilisation :
 
-![Diagramme](Images/Image_scan.png)
+![Scan](https://github.com/BelmonteLucas/Rendu_S2/tree/main/Projet_Scanner_Reseau/ImageImage_scan.png)
 
