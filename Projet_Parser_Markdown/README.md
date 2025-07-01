@@ -98,7 +98,7 @@ Fichier Markdown source contenant du contenu à convertir.
 
 ### ipconfig.py :
 
-Script Python d’exemple, par exemple ici il ecécute la commande réseaux ipconfig avec l'heure à laquelle il a été exécuté.
+Script Python d’exemple : ici, il exécute la commande réseau ipconfig et affiche l’heure à laquelle la commande a été lancée
 
 ---
 
