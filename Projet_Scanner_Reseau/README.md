@@ -100,3 +100,9 @@ Le graphique ne s’affiche que s’il y a au moins un appareil détecté.
 
 ![Scan](https://github.com/BelmonteLucas/Rendu_S2/blob/main/Projet_Scanner_Reseau/Image/Image_scan.png)
 
+---
+
+## Auteur
+
+Lucas Belmonte - Projet de veille technologique - Python & Administration Réseau - 01 Juillet 2025
+
