@@ -104,5 +104,5 @@ Le graphique ne s’affiche que s’il y a au moins un appareil détecté.
 
 ## Auteur
 
-Lucas Belmonte - Projet de scanner réseau - Python & Administration Réseau - 01 Juillet 2025
+Lucas Belmonte - Projet de scan réseau - Python & Administration Réseau - 01 Juillet 2025
 
